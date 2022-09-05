@@ -17,11 +17,15 @@ public class Ejercicio1 {
     public static void main(String[] args) {
         
     
-        System.out.println("Ellos son mi famia");
-        System.out.println("Mi mama es: Yanira de Jimenez");
-        System.out.println("Mi papa es: Ramon Jimenez");
-        System.out.println("Mi hemana es: Nancy Jimeez");
-        System.out.println("Mi nombre es: David Jimenez");
+        System.out.println("Ellos son mi famia ");
+        
+        System.out.println("Mi mama es: Yanira de Jimenez ella tiene 42 años");
+        
+        System.out.println("Mi papa es: Ramon Jimenez el tiene 48 años");
+        
+        System.out.println("Mi hemana es: Nancy Jimeez ella tiene 13 años");
+        
+        System.out.println("Mi nombre es: David Jimenez y tengo 19 años");
         
     }
 }
